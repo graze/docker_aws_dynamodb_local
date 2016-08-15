@@ -4,7 +4,7 @@
 # https://aws.amazon.com/blogs/aws/dynamodb-local-for-desktop-development/
 #
 FROM makuk66/docker-oracle-java7
-MAINTAINER Dean Giberson <dean@deangiberson.com>
+MAINTAINER Burhan Ali <burhan.ali@graze.com>
 
 # Create working space
 RUN mkdir /var/dynamodb_wd
